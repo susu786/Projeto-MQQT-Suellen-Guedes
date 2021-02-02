@@ -8,5 +8,6 @@ O objetivo desse projeto é usar o ARDUÍNO com o auxílio do sensor magnético 
 Foram utilizados as seguintes bibliotecas: 
 
 -[UIEPthernet](https://github.com/UIPEthernet/UIPEthernet) (conexão do ENC28J60 com o Arduíno) 
+
 -[PubSubClient](https://github.com/knolleary/pubsubclient) (cliente MQTT para o Arduíno)
 
