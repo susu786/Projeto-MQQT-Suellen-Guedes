@@ -27,3 +27,5 @@ Foram utilizados as seguintes bibliotecas:
 
 Autor: Suellen Guedes
 
+![LinKedIn](https://www.linkedin.com/my-items/saved-jobs/)
+
