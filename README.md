@@ -29,7 +29,7 @@ Autor: Suellen Guedes
 
 [LinKedIn](https://www.linkedin.com/my-items/saved-jobs/)
 
-Gmail - (https://mail.google.com/mail/u/0/?pli=1#inbox)
+Gmail - (suellen.guedes.007@gmail.com)
 
 
 
