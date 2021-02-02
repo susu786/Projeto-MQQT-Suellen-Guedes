@@ -32,7 +32,6 @@ Autor: Suellen Guedes
 Gmail - (suellen.guedes.007@gmail.com)
 
 
-[Gmail] (https://mail.google.com/mail/u/0/#inbox)
 
 
 
