@@ -27,7 +27,7 @@ Foram utilizados as seguintes bibliotecas:
 
 Autor: Suellen Guedes
 
-[LinKedIn](https://www.linkedin.com/my-items/saved-jobs/)
+[LinKedIn](https://www.linkedin.com/in/suellen-guedes-915a571b5/)
 
 Gmail - (suellen.guedes.007@gmail.com)
 
