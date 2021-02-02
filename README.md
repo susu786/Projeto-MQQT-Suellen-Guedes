@@ -15,12 +15,14 @@ Foram utilizados as seguintes bibliotecas:
 
 -Arduíno
 -Módulo Ethernet (ENC28J60)
--Sensor Magnético (MC-38)
+
+-Sensor Magnético (MC-38
+
 -Jumpers
 
 **Circuito**
 
-![] (https://camo.githubusercontent.com/ad1da211b35b60b23fb095a64e76dc6504d0c3229e853bd82a69a4d5d27bbb88/68747470733a2f2f692e696d6775722e636f6d2f594947477453472e706e67)
+![](https://camo.githubusercontent.com/ad1da211b35b60b23fb095a64e76dc6504d0c3229e853bd82a69a4d5d27bbb88/68747470733a2f2f692e696d6775722e636f6d2f594947477453472e706e67)
 
 
 Autor: Suellen Guedes
