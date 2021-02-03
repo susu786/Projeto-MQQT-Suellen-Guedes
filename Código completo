@@ -47,8 +47,8 @@ void setup() {
 }
 
 void loop() {
-  mqttClient.connect("suellenguedes");
-    mensagem = mqttClient.publish( "suellenguedes", "FUNCIONOU!" );
+    mqttClient.connect("suellenguedes");
+    mensagem = mqttClient.publish( "suellenguedes-t", "FUNCIONOU" );
     Serial.println(mensagem);
 
     estado_sensor = digitalRead(pino2);
@@ -57,14 +57,17 @@ void loop() {
   {
     mqttClient.connect("suellenguedes");
     mensagem = mqttClient.publish("suellenguedes-t", "Porta aberta ");    
-    Serial.println(estado_sensor);  
+    Serial.println(estado_sensor); 
+    Serial.println("Porta aberta");
   }
+  
 
    if (estado_sensor == 0)
   {
     mqttClient.connect("suellenguedes");
     mensagem = mqttClient.publish("suellenguedes-t", "Porta fechada ");
     Serial.println(estado_sensor);
+    Serial.println("Porta fechada");
   }
     
     mqttClient.loop();
