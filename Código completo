@@ -48,7 +48,7 @@ void setup() {
 
 void loop() {
   mqttClient.connect("suellenguedes");
-    mensagem = mqttClient.publish( "miguelpierre-T", "Cool" );
+    mensagem = mqttClient.publish( "suellenguedes", "FUNCIONOU!" );
     Serial.println(mensagem);
 
     estado_sensor = digitalRead(pino2);
