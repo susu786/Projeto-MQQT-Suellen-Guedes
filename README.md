@@ -26,9 +26,7 @@ Foram utilizados as seguintes bibliotecas:
 
 
 Autora: Suellen Guedes
-
-[LinKedIn](https://www.linkedin.com/in/suellen-guedes-915a571b5/)
-
+[LinkedIn] (https://www.linkedin.com/in/suellen-guedes-776972206/ )
 Gmail - (suellen.guedes.007@gmail.com)
 
 
